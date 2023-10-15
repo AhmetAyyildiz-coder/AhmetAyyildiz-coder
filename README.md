@@ -36,10 +36,6 @@
     " style="vertical-align:top margin:6px 4px">
   </a>
   
-   <a href="#">
-    <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" style="vertical-align:top margin:6px 4px">
-  </a>
-  
   
   <a href="#">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top margin:6px 4px">
