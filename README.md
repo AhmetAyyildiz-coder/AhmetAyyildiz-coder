@@ -2,9 +2,3 @@
 - 👀 I'm doing web development with Asp.net Core - React js.
 <hr>
 
-
-</p>
-
-<br>
-
-<hr>
